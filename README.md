@@ -18,7 +18,7 @@ A Python-based tool to extract, clean, and query bank statement PDFs using natur
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/rag-chat-bank-statements.git
-cd rag-chat-bank-statements
+cd chat-bank-statements
 ```
 
 ### 2. Setup Virtual Environment
